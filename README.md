@@ -4,7 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykondev13&label=Profile%20views&color=0e75b6&style=flat" alt="maykondev13" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-
+<div>
+  <p align="center"><a href="https://wa.me://+5567998318445"><img src="https://img.shields.io/badge/-WHATSAPP-white?style=for-the-badge&logo=WhatsApp&logoColor=Green"></a>
+  <a href="t.me/truthzx0"><img src="https://img.shields.io/badge/-TELEGRAM-white?style=for-the-badge&logo=Telegram&logoColor=Blue"></a>
+  </p>
+</div>
 <p align="left">
 </p>
 
